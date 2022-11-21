@@ -18,7 +18,7 @@ They are based on the data sets available online from [Kaggle](https://www.kaggl
 For the backend:
 - [Python 3](https://www.python.org/downloads/) (Version: 3.8.x)
 - [MongoDB](https://www.mongodb.com/try/download/community) (Version: 4.x)
-- Other packages: `pymongo`, `Flask`, `Flask-PyMongo`, `flask_cors`, `numpy`, `pandas`, `joblib`, `scikit-learn`, `umap`, and `math`.
+- Other packages: `pymongo`, `Flask`, `Flask-PyMongo`, `flask_cors`, `numpy`, `pandas`, `joblib`, `scikit-learn`, and `umap`.
 
 One way to install MongoDB in macOS is by using Homebrew:
 ```
