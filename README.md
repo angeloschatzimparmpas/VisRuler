@@ -44,7 +44,7 @@ python3 insertMongo.py
 ```
 
 # Usage #
-Below is an example of how you can get FeatureEnVi running using Python and Node.js for the backend and frontend, respectively. The frontend is written in JavaScript/HTML with the help of Vue.js framework, so it could be hosted in any other web server of your preference. The only hard requirement (currently) is that both frontend and backend must be running on the same machine. 
+Below is an example of how you can get VisRuler running using Python and Node.js for the backend and frontend, respectively. The frontend is written in JavaScript/HTML with the help of Vue.js framework, so it could be hosted in any other web server of your preference. The only hard requirement (currently) is that both frontend and backend must be running on the same machine. 
 ```
 # first terminal: hosting the visualization side (client)
 # with Node.js
