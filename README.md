@@ -11,7 +11,7 @@ This Git repository contains the code that accompanies the research paper "VisRu
 **Note:** As any other software, the code is not bug free. There might be limitations in the views and functionalities of the tool that could be addressed in a future code update.
 
 # Data Sets #
-All publicly available data sets used in the paper are in the `datasets` folder, formatted as comma separated values (csv). 
+All publicly available data sets used in the paper are in the `data` folder, formatted as comma separated values (csv). 
 They are based on the data sets available online from [Kaggle](https://www.kaggle.com/) or the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php): World Happiness Report 2019, German Credit Data (slightly processed), and Iris Flower.
 
 # Requirements #
