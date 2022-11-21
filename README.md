@@ -6,13 +6,13 @@ This Git repository contains the code that accompanies the research paper "VisRu
 
 **Note:** The tag `paper-version` matches the implementation at the time of the paper's publication. The current version might look significantly different depending on how much time has passed since then.
 
-**Note:** This software is based on the [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html), [Adaptive Boosting](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html), from  libraries. Using the exact same input data, different systems might generate slightly different outputs due to the use of these libraries, and such differences will propagate to our software.
+**Note:** This software is based on the Random Forest, Adaptive Boosting], and Randomized Search implementations from [Scikit-learn](https://scikit-learn.org/stable/index.html) library. Although we used RANDOM_SEED = 42, the exact same input data for different systems might generate slightly different outputs due to the use of these libraries, and such differences will propagate to our software.
 
 **Note:** As any other software, the code is not bug free. There might be limitations in the views and functionalities of the tool that could be addressed in a future code update.
 
 # Data Sets #
 All publicly available data sets used in the paper are in the `datasets` folder, formatted as comma separated values (csv). 
-They are based on the data sets available online from [Kaggle](https://www.kaggle.com/) or the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php): World Happiness Report 2019, German Credit Data, and Iris Flower.
+They are based on the data sets available online from [Kaggle](https://www.kaggle.com/) or the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php): World Happiness Report 2019, German Credit Data (slightly processed), and Iris Flower.
 
 # Requirements #
 For the backend:
